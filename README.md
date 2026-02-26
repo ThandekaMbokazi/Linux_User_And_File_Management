@@ -74,14 +74,14 @@ This task demonstrated the transition of data ownership and the application of n
 The Advanced Package Tool (APT) is the backbone of Ubuntu software management. I demonstrated the ability to update the local cache and install binary utilities.
 * **Installation:** Deployed the `tree` utility to provide a visual representation of the file system.
 
-![Apt Install]
+### Apt Install
 <img width="948" height="492" alt="image" src="https://github.com/user-attachments/assets/89a5ea63-348a-40ab-a252-ae47ddc63ed0" />
 
 
 ### **B. Output Verification**
 The installation was verified by generating a recursive directory tree, proving that the software is correctly mapped in the system's `$PATH`.
 
-![Package Verification]
+### Package Verification
 <img width="1099" height="752" alt="image" src="https://github.com/user-attachments/assets/ddfa5018-0615-4f48-8f63-0a519332b622" />
 
 

@@ -51,7 +51,7 @@ I established a structured workspace to test file system interactions. Understan
 <img width="904" height="638" alt="image" src="https://github.com/user-attachments/assets/10654779-31cc-4b49-beb6-9c0ebfa17153" />
 
 
-### **B. Ownership & Permission Transfer **
+### B. Ownership & Permission Transfer 
 This task demonstrated the transition of data ownership and the application of numeric permission masks.
 * **Ownership:** Shifted the file's primary owner and group to `student1`.
 * **Permissions:** Applied a `600` (rw-------) mask, ensuring that only the owner can read or write to the file, protecting it from other users on the system.

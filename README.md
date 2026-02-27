@@ -18,7 +18,7 @@ I initiated the environment by creating a dedicated user account. Unlike a simpl
 <img width="861" height="644" alt="image" src="https://github.com/user-attachments/assets/c396ef8e-6e5d-472b-bf14-095ac0afdadd" />
 
 
-### **B. Administrative Privilege Escalation**
+### **B. Root/Admin Capture**
 In Linux, the "Principle of Least Privilege" is vital. I created a custom group and managed the `sudoers` list to ensure users have exactly the power they need—no more, no less.
 * **Task:** Created a `power_users` group for departmental organization.
 * **Privilege:** Added `student1` to the `%sudo` group, allowing the user to perform administrative tasks without logging in as root.

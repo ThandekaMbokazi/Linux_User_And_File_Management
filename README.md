@@ -51,7 +51,7 @@ I established a structured workspace to test file system interactions. Understan
 <img width="904" height="638" alt="image" src="https://github.com/user-attachments/assets/10654779-31cc-4b49-beb6-9c0ebfa17153" />
 
 
-### **B. Ownership Transfer & Permission Masks**
+### **B. Ownership & Permission Transfer **
 This task demonstrated the transition of data ownership and the application of numeric permission masks.
 * **Ownership:** Shifted the file's primary owner and group to `student1`.
 * **Permissions:** Applied a `600` (rw-------) mask, ensuring that only the owner can read or write to the file, protecting it from other users on the system.
@@ -60,11 +60,6 @@ This task demonstrated the transition of data ownership and the application of n
 
 ### Ownership Change
 <img width="844" height="677" alt="image" src="https://github.com/user-attachments/assets/96834b1a-c1e5-4b43-b7ad-0d8c33777b5a" />
-
-### Permission Error
-<img width="859" height="650" alt="image" src="https://github.com/user-attachments/assets/7ac029fa-4450-4582-ab84-b5b568dae3d6" />
-
-
 
 ---
 
@@ -80,6 +75,8 @@ The Advanced Package Tool (APT) is the backbone of Ubuntu software management. I
 
 ### **B. Output Verification**
 The installation was verified by generating a recursive directory tree, proving that the software is correctly mapped in the system's `$PATH`.
+
+
 
 ### Package Verification
 <img width="1099" height="752" alt="image" src="https://github.com/user-attachments/assets/ddfa5018-0615-4f48-8f63-0a519332b622" />

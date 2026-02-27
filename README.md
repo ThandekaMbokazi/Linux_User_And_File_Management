@@ -56,8 +56,6 @@ This task demonstrated the transition of data ownership and the application of n
 * **Ownership:** Shifted the file's primary owner and group to `student1`.
 * **Permissions:** Applied a `600` (rw-------) mask, ensuring that only the owner can read or write to the file, protecting it from other users on the system.
 
-> ** Troubleshooting Insight:** > During the exercise, I deliberately documented a "Permission Denied" error. This serves as a critical learning point: even with the correct command syntax, the OS enforces strict security. Without `sudo` (SuperUser Do), the system protects files from unauthorized modification.
-
 ### Ownership Change
 <img width="844" height="677" alt="image" src="https://github.com/user-attachments/assets/96834b1a-c1e5-4b43-b7ad-0d8c33777b5a" />
 

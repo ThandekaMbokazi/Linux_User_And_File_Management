@@ -14,7 +14,7 @@ I initiated the environment by creating a dedicated user account. Unlike a simpl
 * **Action:** `sudo adduser student1`
 * **Observation:** The system successfully allocated a Unique Identifier (UID) and created a localized environment for the user.
 
-### User Creation Success
+### User Creation 
 <img width="861" height="644" alt="image" src="https://github.com/user-attachments/assets/c396ef8e-6e5d-472b-bf14-095ac0afdadd" />
 
 
